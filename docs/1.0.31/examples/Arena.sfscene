@@ -1,0 +1,14 @@
+{
+  "Format_Version": 6,
+  "Persistent_Id": "d82744bce7f643aa951ff115c3f4f633",
+  "Name": "Arena",
+  "Game_Camera_Persistent_Id": "b8d5dce381f44df2b59ec26c6aa46208",
+  "Objects": [
+    {
+      "Name": "Camera",
+      "Type_Tag": "Camera",
+      "Persistent_Id": "b8d5dce381f44df2b59ec26c6aa46208",
+      "Camera": { "Projection": 0, "Position_Z": -10, "Orthographic_Height": 720 }
+    }
+  ]
+}

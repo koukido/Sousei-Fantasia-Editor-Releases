@@ -1,0 +1,14 @@
+{
+  "Format_Version": 6,
+  "Persistent_Id": "c1b80d60b6314d2d9c53a7c1ab49f419",
+  "Name": "Menu",
+  "Game_Camera_Persistent_Id": "f4284af012374cc78f50e60e120b2766",
+  "Objects": [
+    {
+      "Name": "Camera",
+      "Type_Tag": "Camera",
+      "Persistent_Id": "f4284af012374cc78f50e60e120b2766",
+      "Camera": { "Projection": 0, "Position_Z": -10, "Orthographic_Height": 720 }
+    }
+  ]
+}
